@@ -1,9 +1,9 @@
 # Workout-Tracker
 
-## An easier way to track your fitness journey 🏋️‍♂️
+## An innovative way to track your fitness goals!
 
 ## Description 
-The user will be able too : 
+As a user you will be able to:
 
  * Add exercises to a previous workout plan.
 
@@ -11,8 +11,8 @@ The user will be able too :
 
   * View the combined weight of multiple exercises on the `stats` page.
 
-  ### Heroku Application
-  https://workout-gains.herokuapp.com/
+  # Heroku link
+  
 
   ## Technology Incorporated
   - MongoDB / Mongoose.js
